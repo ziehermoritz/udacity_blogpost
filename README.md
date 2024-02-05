@@ -28,9 +28,9 @@ The questions I tried to answer included:
 
 ## File Descriptions <a name="files"></a>
 
-In this repository there are available 3 source files and the resulting figures of the code.
+In this repository there are available 2 source files and the resulting figures of the code.
 The code is provided by a jupyter notebook, where each questions is highlighted by a markdown cell. The notebook includes additional comments to describe my thoughts, but feel free to reach out!
-In the data folder the datasets provided by Stack Overflow are included as csv-datafiles.
+In the data folder the datasets provided by Stack Overflow are included in a zip-Archive.
 
 ## Results<a name="results"></a>
 
