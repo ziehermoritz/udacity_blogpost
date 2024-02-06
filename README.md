@@ -34,7 +34,7 @@ In the data folder the datasets provided by Stack Overflow are included in a zip
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](asdfasdf).
+The main findings of the code can be found at the post available [here](https://medium.com/@mozieher/analyzing-age-bias-in-software-development-by-the-use-of-data-6a1d246e915f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
